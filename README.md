@@ -15,4 +15,4 @@ AI-first every day with Claude Code and Cursor: I brief agents on multi-file cha
 
 #### Find me
 
-[vasconeves.com](https://vasconeves.com) · [LinkedIn](https://www.linkedin.com/in/nevespvasco) · nevespvasco+jobs@gmail.com
+[vasconeves.com](https://vasconeves.com) · [LinkedIn](https://www.linkedin.com/in/nevespvasco)
