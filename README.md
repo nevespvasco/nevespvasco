@@ -1,6 +1,6 @@
 ### Hi, I'm Vasco Neves
 
-Senior Frontend Engineer building complex, data-heavy web apps with **Vue 3, Nuxt and TypeScript**, tested with **Vitest and Playwright**. I ship the backend slice of my own features too (Laravel, NestJS, PostgreSQL). Based in Portugal, working remotely.
+Senior Software Engineer building complex, data-heavy web apps with **Vue 3, Nuxt and TypeScript**, tested with **Vitest and Playwright**. I ship the backend slice of my own features too (Laravel, NestJS, PostgreSQL). Based in Portugal, working remotely.
 
 #### Things I've built
 
